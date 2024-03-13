@@ -9,5 +9,3 @@ Through this tutorial, I learned how to
 2. preprocess my text for analysis
 3. analyze my text
 4. create visualizations based on my analysis.
-
-Thanks for coming!
