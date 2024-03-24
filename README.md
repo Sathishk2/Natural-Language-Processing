@@ -9,3 +9,5 @@ Through this tutorial, I learned how to
 2. preprocess my text for analysis
 3. analyze my text
 4. create visualizations based on my analysis.
+
+There are many steps including tokenizing, filtering stop words, stemming, tagging parts of speech, lemmatizing, chunking, chinking, named entity recognition, concordance, dispersion plot, frequency distribution, and collocations. 
