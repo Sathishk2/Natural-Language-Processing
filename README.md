@@ -10,5 +10,6 @@ In this repository, I learn how to use
 4. word2vec
 5. dependency distance
 6. BERT
+7. Fine-tune LLM for text classification
 
 Datasets are from realpython, freecodecamp & Kaggle. 
